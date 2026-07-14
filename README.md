@@ -68,14 +68,8 @@ Passionate about creating modern, responsive, and user-friendly applications whi
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
 </p>
 
----
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=moonlightfik&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlightfik&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -87,13 +81,6 @@ Passionate about creating modern, responsive, and user-friendly applications whi
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moonlightfik&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ## 🌟 Featured Projects
 
